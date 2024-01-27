@@ -47,7 +47,9 @@ French is known as the language of romance but Javascript is in a league of it o
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p>
+                    
+                    Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/A-gent-X"><img src="https://github-readme-stats.vercel.app/api?username=A-gent-X&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&show_icons=true" alt="A-gent-X's GitHub stats" /></a><a
                       href="http://www.github.com/A-gent-X"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=A-gent-X&stroke=ffffff&background=581c87&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/A-gent-X" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-gent-X&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/A-gent-X/fit-pal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=A-gent-X&repo=fit-pal&title_color=3382ed&text_color=ffffff&icon_color=22c55e&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
