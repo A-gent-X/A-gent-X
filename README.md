@@ -1,7 +1,7 @@
 Hi 👋 My name is Xavier Austin-Brown
 ====================================
 
-FullStack Engineer
+FrontEnd React Engineer
 ------------------
 
 French is known as the language of romance but Javascript is in a league of it own.
