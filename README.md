@@ -1,6 +1,6 @@
-<a href="" target="_blank"><img src="https://user-images.githubusercontent.com/624760/" /></a>
 
-Hi 👋 My name is Xavier Austin-Brown
+
+<img src="[https://raw.githubusercontent.com](https://cdn.hero.page/pfp/ffa7cc2e-8e5b-4317-8898-c015590ccf56-stoic-black-anime-boy-alluring-black-anime-boy-characters-pfp-1.png)/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /> Hi 👋 My name is Xavier Austin-Brown
 ====================================
 
 FrontEnd React Engineer
