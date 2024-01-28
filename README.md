@@ -53,6 +53,7 @@ French is known as the language of romance but Javascript is in a league of it o
 </p>
 
 ### Socials
+------------------
 
 <p align="left"> 
   <a href="https://discord.com/users/xavieraustinbrown" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="undefined" />
