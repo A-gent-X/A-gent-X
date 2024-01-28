@@ -1,6 +1,6 @@
 
 
-<img src="https://cdn.hero.page/pfp/ffa7cc2e-8e5b-4317-8898-c015590ccf56-stoic-black-anime-boy-alluring-black-anime-boy-characters-pfp-1.png" width="36" height="36" alt="Avatar" /> Hi 👋 My name is Xavier Austin-Brown
+<img src="https://cdn.hero.page/pfp/ffa7cc2e-8e5b-4317-8898-c015590ccf56-stoic-black-anime-boy-alluring-black-anime-boy-characters-pfp-1.png" width="100" height="100" alt="Avatar" /> Xavier Austin-Brown
 ====================================
 
 FrontEnd React Engineer
