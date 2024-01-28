@@ -32,3 +32,26 @@ French is known as the language of romance but Javascript is in a league of it o
 -----------------------
 
 <div width="100%" align="center"><a href="https://github.com/A-gent-X/fit-pal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=A-gent-X&repo=fit-pal&title_color=ef4444&text_color=facc15&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en" /></a></div>
+
+### My Story
+-----------------------
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
+  </tr>
+  <tr>
+    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
+  </tr>
+  <tr>
+    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
+  </tr>
+  <tr>
+    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
+  </tr>
+</table>
+
