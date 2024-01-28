@@ -14,6 +14,7 @@ French is known as the language of romance but Javascript is in a league of it o
 * 🧠  I'm learning NextJS
 
 ### Skills
+------------------
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
